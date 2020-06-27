@@ -13,13 +13,6 @@ f.close()
 
 duplicates = []  # Return the list of duplicates in this data structure
 
-# Replace the nested for loops below with your improvements
-# for name_1 in names_1:
-#     for name_2 in names_2:
-#         if name_1 == name_2:
-#             duplicates.append(name_1)
-
-########## Pseudo Code ##########
 # Create a binary search tree class. It will need insert and contains functions.
     #****** Done. See import at top of page. ******
 # Initialize a binary search tree with an empty string for the initial value.
